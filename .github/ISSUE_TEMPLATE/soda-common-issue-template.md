@@ -8,11 +8,11 @@ assignees: ''
 
 ---
 
-Issue/Feature Description:
+**Issue/Feature Description:**
 
-Why this issue to fixed / feature is needed(give scenarios or use cases):
+**Why this issue to fixed / feature is needed(give scenarios or use cases):**
 
-How to reproduce, in case of a bug:
+**How to reproduce, in case of a bug:**
 
+**Other Notes /  Environment Information: (Please give the env information, log link or any useful information for this issue)**
 
-Other Notes /  Environment Information: (Please give the env information, log link or any useful information for this issue)
