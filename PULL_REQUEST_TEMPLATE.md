@@ -1,6 +1,6 @@
 <!--  Thanks for sending a pull request!  Here are some tips for you:
 
-1. Please give clear description and fill ann needed fields in the PR template
+1. Please give clear description and fill all the needed fields in the PR template below
 2. Provide all the test report and results for the PR. It is mandatory. Otherwise, 
    your PR may get rejected without any review/discussion
 3. If the PR is incomplete/in progress, please add [WIP] at the beginning of the PR title.
