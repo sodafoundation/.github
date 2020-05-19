@@ -10,6 +10,7 @@ assignees: ''
 
 Issue/Feature Description:
 
+Why this issue to fixed / feature is needed(give scenarios or use cases):
 
 How to reproduce, in case of a bug:
 
